@@ -22,14 +22,14 @@
     <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"  title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/186522?s=280&v=4"  title="GeoServer" alt="GeoServer" width="40" height="40"/>&nbsp;
     <img src="https://openlayers.org/assets/theme/img/logo70.png"  title="OpenLayers" alt="OpenLayers" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/Leaflet/Leaflet/blob/main/docs/docs/images/logo.png"  title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/maxcollombin/maxcollombin/blob/main/assets/leaflet.png"  title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
 ---
