@@ -17,8 +17,8 @@
 
 <div>
     <a href="https://qgis.org/en/site/"><img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png" title="QGIS" alt="QGIS" width="40" height="40"/></a>&nbsp;
-    <a href="https://pro.arcgis.com/en"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" title="ArcGIS-Pro" alt="ArcGIS Pro" width="40" height="40"/></a>&nbsp;
-    <a href="https://enterprise.arcgis.com/en/"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Enterprise.png"  title="ArcGIS-Enterprise" alt="ArcGIS Enterprise" width="40" height="40"/></a>&nbsp;
+    <a href="https://pro.arcgis.com/en"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" title="ArcGIS Pro" alt="ArcGIS Pro" width="40" height="40"/></a>&nbsp;
+    <a href="https://enterprise.arcgis.com/en/"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Enterprise.png"  title="ArcGIS Enterprise" alt="ArcGIS Enterprise" width="40" height="40"/></a>&nbsp;
     <a href="https://geoserver.org/"><img src="https://avatars.githubusercontent.com/u/186522?s=280&v=4" title="GeoServer" alt="GeoServer" width="40" height="40"/></a>&nbsp;
     <a href="https://openlayers.org/"><img src="https://openlayers.org/assets/theme/img/logo70.png" title="OpenLayers" alt="OpenLayers" width="40" height="40"/></a>&nbsp;
     <a href="https://leafletjs.com/"><img src="https://github.com/maxcollombin/maxcollombin/blob/main/assets/leaflet.png" title="Leaflet" alt="Leaflet" width="40" height="40"/></a>&nbsp;
