@@ -17,15 +17,15 @@
 
 <div>
     <a href="https://qgis.org/en/site/"><img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png" title="QGIS" alt="QGIS" width="40" height="40"/></a>&nbsp;
-    <a href="https://pro.arcgis.com/en"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/></a>&nbsp;
-    <a href="https://enterprise.arcgis.com/en/"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Enterprise.png"  title="ArcGIS-Enterprise" alt="ArcGIS-Enterprise" width="40" height="40"/></a>&nbsp;
+    <a href="https://pro.arcgis.com/en"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" title="ArcGIS-Pro" alt="ArcGIS Pro" width="40" height="40"/></a>&nbsp;
+    <a href="https://enterprise.arcgis.com/en/"><img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Enterprise.png"  title="ArcGIS-Enterprise" alt="ArcGIS Enterprise" width="40" height="40"/></a>&nbsp;
     <a href="https://geoserver.org/"><img src="https://avatars.githubusercontent.com/u/186522?s=280&v=4" title="GeoServer" alt="GeoServer" width="40" height="40"/></a>&nbsp;
     <a href="https://openlayers.org/"><img src="https://openlayers.org/assets/theme/img/logo70.png" title="OpenLayers" alt="OpenLayers" width="40" height="40"/></a>&nbsp;
     <a href="https://leafletjs.com/"><img src="https://github.com/maxcollombin/maxcollombin/blob/main/assets/leaflet.png" title="Leaflet" alt="Leaflet" width="40" height="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
     <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
     <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/></a>&nbsp;
     <a href="https://github.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/></a>&nbsp;
