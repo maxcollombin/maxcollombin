@@ -3,7 +3,7 @@
 - My name is Maxime Collombin
 - I'm a Geospatial Web Specialist working currently at the [University of Applied Sciences of Western Switzerland (HEIG-VD)](https://heig-vd.ch/rad/instituts/mei/mediamaps).
 
-- I am a geologist by training and hold a Master of Science in Geology from the [University of Lausanne, Switzerland](https://www.unil.ch/gse/fr/home.html).
+- I'm a geologist by training and hold a Master of Science in Geology from the [University of Lausanne, Switzerland](https://www.unil.ch/gse/fr/home.html).
 
 - My areas of interest are:
     - ecology and the environment
