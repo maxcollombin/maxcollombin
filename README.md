@@ -3,7 +3,7 @@
 - My name is Maxime Collombin
 - I'm a Geospatial Web Specialist working currently at the [University of Applied Sciences of Western Switzerland (HEIG-VD)](https://heig-vd.ch/rad/instituts/mei/mediamaps).
 
-- 🎓 I am a geologist by training and hold a Master of Science in Geology from the [University of Lausanne, Switzerland](https://www.unil.ch/gse/fr/home.html).
+- I am a geologist by training and hold a Master of Science in Geology from the [University of Lausanne, Switzerland](https://www.unil.ch/gse/fr/home.html).
 
 - My areas of interest are:
     - ecology and the environment
@@ -17,10 +17,10 @@
 
 <div>
     <img src="https://github.com/qgis/QGIS/blob/master/images/icons/qgis-icon-60x60.png"  title="QGIS" alt="QGIS" width="40" height="40"/>&nbsp;
-    <img src="  https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"  title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/>&nbsp;
+    <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"  title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/>&nbsp;
     <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Enterprise.png"  title="ArcGIS-Enterprise" alt="ArcGIS-Enterprise" width="40" height="40"/>&nbsp;
-    <img src="  https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"  title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/>&nbsp;
-    <img src="  https://avatars.githubusercontent.com/u/186522?s=280&v=4"  title="GeoServer" alt="GeoServer" width="40" height="40"/>&nbsp;
+    <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png"  title="ArcGIS-Pro" alt="ArcGIS-Pro" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/186522?s=280&v=4"  title="GeoServer" alt="GeoServer" width="40" height="40"/>&nbsp;
     <img src="https://openlayers.org/assets/theme/img/logo70.png"  title="OpenLayers" alt="OpenLayers" width="40" height="40"/>&nbsp;
     <img src="https://github.com/Leaflet/Leaflet/blob/main/docs/docs/images/logo.png"  title="Leaflet" alt="Leaflet" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
