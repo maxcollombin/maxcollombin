@@ -48,12 +48,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maxime-collombin-995268136/)](https://www.linkedin.com/in/maxime-collombin-995268136/)
 [![Contact](https://img.shields.io/badge/Contact-vCard-lightgrey&?style=for-the-badge&https://contacts.heig-vd.ch/mcn)](https://contacts.heig-vd.ch/mcn)
 
-
-<iframe src='https://map.geo.admin.ch/embed.html?lang=en&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2600273.71&N=1199922.91&zoom=8crosshair=marker' width='400' height='300' frameborder='0' style='border:0' allow='geolocation'></iframe>
-
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
-
-
