@@ -47,3 +47,31 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maxime-collombin-995268136/)](https://www.linkedin.com/in/maxime-collombin-995268136/)
 [![Contact](https://img.shields.io/badge/Contact-vCard-lightgrey&?style=for-the-badge&https://contacts.heig-vd.ch/mcn)](https://contacts.heig-vd.ch/mcn)
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Haus der Kantone</title>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+        <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+    </head>
+    <body>
+        <div id="map" style="width: 600px; height: 400px;"></div>
+        <script>
+            var map = L.map("map").setView([46.8, 8.2], 8);
+            L.tileLayer("http://{s}.tile.osm.org/{z}/{x}/{y}.png", {
+                attribution:
+                    'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' + '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' + 'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+                maxZoom: 18,
+            }).addTo(map);
+            var marker = L.marker([46.95074, 7.44217]).addTo(map);
+            marker.bindPopup("<b>Haus der Kantone</b><br>Speichergasse 6<br>3011 Bern").openPopup();
+        </script>
+    </body>
+</html>
+
+
+
+
+
