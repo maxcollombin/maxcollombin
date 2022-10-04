@@ -49,5 +49,5 @@
 [![Contact](https://img.shields.io/badge/Contact-vCard-lightgrey&?style=for-the-badge&https://contacts.heig-vd.ch/mcn)](https://contacts.heig-vd.ch/mcn)
 
 
-
+![OGC Standards Roadmap width= 250px](https://mediacomem.github.io/eCH-0056-revision/01_kick-off_meeting/images/ogc-standards-roadmap.png)
 
